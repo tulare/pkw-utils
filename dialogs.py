@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 
 import tkinter as tk
-from widgets import PhotoLabel
+from .widgets import PhotoLabel
 
 class BaseDialog(tk.Tk) :
 
